@@ -1,0 +1,386 @@
+﻿country,year,event,lat,lon
+Afghanistan,1942,establish legation,33.94,67.71
+Afghanistan,1948,elevate to embassy,33.94,67.71
+Afghanistan,1989,closure,33.94,67.71
+Afghanistan,2002,reopen embassy,33.94,67.71
+Albania,1922,establish legation,41.15,20.17
+Albania,1939,closure,41.15,20.17
+Albania,1991,reopen embassy,41.15,20.17
+Algeria,1962,establish embassy,28.03,1.66
+Algeria,1967,closure,28.03,1.66
+Algeria,1974,reopen embassy,28.03,1.66
+Angola,1994,establish embassy,-11.2,17.87
+Antigua and Barbuda,1981,establish embassy,17.06,-61.8
+Antigua and Barbuda,1994,closure,17.06,-61.8
+Argentina,1854,establish legation,-38.42,-63.62
+Argentina,1857,closure,-38.42,-63.62
+Argentina,1862,reopen legation,-38.42,-63.62
+Argentina,1914,elevate to embassy,-38.42,-63.62
+Argentina,1944,closure,-38.42,-63.62
+Argentina,1945,reopen embassy,-38.42,-63.62
+Armenia,1992,establish embassy,40.07,45.04
+Australia,1940,establish legation,-25.27,133.78
+Australia,1946,elevate to embassy,-25.27,133.78
+Austria,1921,establish legation,47.52,14.55
+Austria,1938,closure,47.52,14.55
+Austria,1946,reopen legation,47.52,14.55
+Austria,1951,elevate to embassy,47.52,14.55
+Austrian Empire,1838,establish legation,47.52,14.55
+Austrian Empire,1902,elevate to embassy,47.52,14.55
+Austrian Empire,1917,closure,47.52,14.55
+Azerbaijan,1992,establish embassy,40.14,47.58
+Bahrain,1971,establish embassy,25.93,50.64
+Bangladesh,1972,establish embassy,23.68,90.36
+Barbados,1966,establish embassy,13.19,-59.54
+Belarus,1992,establish embassy,53.71,27.95
+Belgium,1832,establish legation,50.5,4.47
+Belgium,1919,elevate to embassy,50.5,4.47
+Belgium,1940,closure,50.5,4.47
+Belgium,1944,reopen embassy,50.5,4.47
+Belize,1981,establish embassy,17.19,-88.5
+Benin,1961,establish embassy,9.31,2.32
+Bolivia,1849,establish legation,-16.29,-63.59
+Bolivia,1942,elevate to embassy,-16.29,-63.59
+Bosnia and Herzegovina,1992,establish embassy,43.92,17.68
+Botswana,1966,establish embassy,-22.33,24.68
+Brazil,1825,establish legation,-14.24,-51.93
+Brazil,1905,elevate to embassy,-14.24,-51.93
+Brunei,1984,establish embassy,4.54,114.73
+Bulgaria,1919,establish legation,42.73,25.49
+Bulgaria,1941,closure,42.73,25.49
+Bulgaria,1947,reopen legation,42.73,25.49
+Bulgaria,1950,closure,42.73,25.49
+Bulgaria,1959,reopen legation,42.73,25.49
+Bulgaria,1966,elevate to embassy,42.73,25.49
+Burkina Faso,1960,establish embassy,12.24,-1.56
+Burundi,1962,establish embassy,-3.37,29.92
+Cambodia,1950,establish legation,12.57,104.99
+Cambodia,1952,elevate to embassy,12.57,104.99
+Cambodia,1965,closure,12.57,104.99
+Cambodia,1969,reopen embassy,12.57,104.99
+Cambodia,1975,closure,12.57,104.99
+Cambodia,1994,reopen embassy,12.57,104.99
+Cameroon,1960,establish embassy,7.37,12.35
+Canada,1927,establish legation,56.13,-106.35
+Canada,1943,elevate to embassy,56.13,-106.35
+Cape Verde,1978,establish embassy,16,-24.01
+Central African Republic,1961,establish embassy,6.61,20.94
+Chad,1961,establish embassy,15.45,18.73
+Chad,1980,closure,15.45,18.73
+Chad,1982,reopen embassy,15.45,18.73
+Chile,1824,establish legation,-35.68,-71.54
+Chile,1914,elevate to embassy,-35.68,-71.54
+China,1862,establish legation,35.86,104.2
+China,1935,elevate to embassy,35.86,104.2
+Colombia,1823,establish legation,4.57,-74.3
+Colombia,1939,elevate to embassy,4.57,-74.3
+Comoros,1985,establish embassy,-11.88,43.87
+Comoros,1993,closure,-11.88,43.87
+Costa Rica,1898,establish legation,9.75,-83.75
+Costa Rica,1918,closure,9.75,-83.75
+Costa Rica,1943,elevate to embassy,9.75,-83.75
+Cote D’Ivoire,1960,establish embassy,7.54,-5.55
+Croatia,1992,establish embassy,45.1,15.2
+Cuba,1902,establish legation,21.52,-77.78
+Cuba,1961,closure,21.52,-77.78
+Cuba,2015,elevate to embassy,21.52,-77.78
+Cyprus,1960,establish embassy,35.13,33.43
+Czechia,1993,establish embassy,,
+Czechoslovakia,1919,establish legation,49.82,15.47
+Czechoslovakia,1939,closure,49.82,15.47
+Czechoslovakia,1943,reopen legation,49.82,15.47
+Czechoslovakia,1945,elevate to embassy,49.82,15.47
+Czechoslovakia,1945,elevate to embassy,49.82,15.47
+Democratic Republic of the Congo,1960,establish embassy,-4.04,21.76
+Denmark,1801,establish legation,56.26,9.5
+Denmark,1941,closure,56.26,9.5
+Denmark,1945,reopen legation,56.26,9.5
+Denmark,1947,elevate to embassy,56.26,9.5
+Djibouti,1977,establish embassy,11.83,42.59
+Dominican Republic,1904,establish legation,18.74,-70.16
+Dominican Republic,1943,elevate to embassy,18.74,-70.16
+East Germany,1974,establish embassy,52.52,13.39
+East Germany,1990,closure,35.91,127.77
+Ecuador,1848,establish legation,-1.83,-78.18
+Ecuador,1942,elevate to embassy,-1.83,-78.18
+Egypt,1922,establish legation,26.82,30.8
+Egypt,1967,closure,26.82,30.8
+Egypt,1974,reopen embassy,26.82,30.8
+El Salvador,1863,establish legation,13.79,-88.9
+El Salvador,1931,closure,13.79,-88.9
+El Salvador,1934,reopen legation,13.79,-88.9
+El Salvador,1943,elevate to embassy,13.79,-88.9
+Equatorial Guinea,1969,establish embassy,1.65,10.27
+Equatorial Guinea,1976,closure,1.65,10.27
+Equatorial Guinea,1981,reopen embassy,1.65,10.27
+Equatorial Guinea,1995,closure,1.65,10.27
+Equatorial Guinea,2006,reopen embassy,1.65,10.27
+Eritrea,1993,establish embassy,15.18,39.78
+Estonia,1922,establish legation,58.6,25.01
+Estonia,1940,closure,58.6,25.01
+Estonia,1991,establish embassy,58.6,25.01
+Ethiopia,1909,establish legation,9.15,40.49
+Ethiopia,1937,closure,9.15,40.49
+Ethiopia,1943,reopen legation,9.15,40.49
+Ethiopia,1949,elevate to embassy,9.15,40.49
+Fiji,1971,establish embassy,-16.58,179.41
+Finland,1920,establish legation,61.92,25.75
+Finland,1944,closure,61.92,25.75
+Finland,1945,reopen legation,61.92,25.75
+Finland,1952,elevate to embassy,61.92,25.75
+France,1779,establish legation,46.23,2.21
+France,1893,elevate to embassy,46.23,2.21
+France,1942,closure,46.23,2.21
+France,1944,reopen embassy,46.23,2.21
+Gabon,1961,establish embassy,-0.8,11.61
+Georgia,1992,establish embassy,42.32,43.36
+Germany,1797,establish legation,51.17,10.45
+Germany,1893,elevate to embassy,51.17,10.45
+Germany,1893,elevate to embassy,51.17,10.45
+Germany,1917,closure,51.17,10.45
+Germany,1921,reopen legation,51.17,10.45
+Germany,1938,closure,51.17,10.45
+Germany,1955,establish embassy,51.17,10.45
+Ghana,1957,establish embassy,7.95,-1.02
+Greece,1868,establish legation,39.07,21.82
+Greece,1941,closure,39.07,21.82
+Greece,1943,elevate to embassy,39.07,21.82
+Grenada,1984,establish embassy,12.26,-61.6
+Guatemala,1826,establish legation,15.78,-90.23
+Guatemala,1882,elevate to embassy,15.78,-90.23
+Guinea,1959,establish embassy,9.95,-9.7
+Guinea-Bissau,1976,establish embassy,11.8,-15.18
+Guinea-Bissau,1976,closure,11.8,-15.18
+Guyana,1966,establish embassy,4.86,-58.93
+Haiti,1862,establish legation,18.97,-72.29
+Haiti,1943,elevate to embassy,18.97,-72.29
+Hawaii,1853,establish legation,21.3,-157.82
+Hawaii,1898,closure,21.3,-157.82
+Honduras,1856,establish legation,15.2,-86.24
+Honduras,1943,elevate to embassy,15.2,-86.24
+Hungary,1921,establish legation,47.16,19.5
+Hungary,1941,closure,47.16,19.5
+Hungary,1945,reopen legation,47.16,19.5
+Hungary,1966,elevate to embassy,47.16,19.5
+Iceland,1941,establish legation,64.96,-19.02
+Iceland,1955,elevate to embassy,64.96,-19.02
+India,1946,establish embassy,20.59,78.96
+Indonesia,1949,establish embassy,-0.79,113.92
+Iran,1883,establish legation,32.43,53.69
+Iran,1980,closure,32.43,53.69
+Iraq,1931,establish legation,33.22,43.68
+Iraq,1946,elevate to embassy,33.22,43.68
+Iraq,1967,closure,33.22,43.68
+Iraq,1984,reopen embassy,33.22,43.68
+Iraq,1991,closure,33.22,43.68
+Iraq,2004,reopen embassy,33.22,43.68
+Ireland,1927,establish embassy,53.41,-8.24
+Israel,1966,establish embassy,31.05,34.85
+Italy,1831,establish legation,41.87,12.57
+Italy,1893,elevate to embassy,41.87,12.57
+Italy,1941,closure,41.87,12.57
+Italy,1945,reopen embassy,41.87,12.57
+Jamaica,1962,establish embassy,18.11,-77.3
+Japan,1859,establish legation,36.2,138.25
+Japan,1906,elevate to embassy,36.2,138.25
+Japan,1941,closure,36.2,138.25
+Japan,1952,reopen embassy,36.2,138.25
+Jordan,1949,establish embassy,30.59,36.24
+Kazakhstan,1992,establish embassy,48.02,66.92
+Kenya,1964,establish embassy,-0.02,37.91
+Korea,1883,establish legation,35.91,127.77
+Korea,1905,closure,35.91,127.77
+Kosovo,2008,establish embassy,42.6,20.9
+Kosovo,2008,establish embassy,42.6,20.9
+Kuwait,1961,establish embassy,29.31,47.48
+Kuwait,1990,closure,29.31,47.48
+Kuwait,1991,reopen embassy,29.31,47.48
+Kyrgyzstan,2004,establish embassy,41.2,74.77
+Laos,1950,establish legation,19.86,102.5
+Laos,1955,elevate to embassy,19.86,102.5
+Latvia,1922,establish legation,56.88,24.6
+Latvia,1940,closure,56.88,24.6
+Latvia,1991,elevate to embassy,56.88,24.6
+Lebanon,1944,establish legation,33.85,35.86
+Lebanon,1952,elevate to embassy,33.85,35.86
+Lebanon,1989,closure,33.85,35.86
+Lebanon,1990,reopen embassy,33.85,35.86
+Lesotho,1966,establish embassy,-29.61,28.23
+Liberia,1864,establish legation,6.43,-9.43
+Liberia,1949,elevate to embassy,6.43,-9.43
+Libya,1951,establish legation,26.34,17.23
+Libya,1954,elevate to embassy,26.34,17.23
+Libya,1980,closure,26.34,17.23
+Libya,2006,reopen embassy,26.34,17.23
+Lithuania,1922,establish legation,55.17,23.88
+Lithuania,1940,closure,55.17,23.88
+Lithuania,1991,establish embassy,55.17,23.88
+Luxembourg,1903,establish legation,49.82,6.13
+Luxembourg,1940,closure,49.82,6.13
+Luxembourg,1944,reopen legation,49.82,6.13
+Luxembourg,1956,elevate to embassy,49.82,6.13
+Macedonia,1993,establish legation,41.61,21.75
+Macedonia,1996,elevate to embassy,41.61,21.75
+Madagascar,1960,establish embassy,-18.77,46.87
+Malawi,1964,establish embassy,-13.25,34.3
+Malaysia,1957,elevate to embassy,4.21,101.98
+Mali,1960,establish embassy,17.57,-4
+Malta,1976,establish embassy,35.94,14.38
+Marshall Islands,1989,establish embassy,7.13,171.18
+Mauritania,1962,establish embassy,21.01,-10.94
+Mauritania,1967,closure,21.01,-10.94
+Mauritania,1970,reopen embassy,21.01,-10.94
+Mauritius,1968,establish embassy,-20.35,57.55
+Mexico,1825,establish legation,23.63,-102.55
+Mexico,1845,closure,23.63,-102.55
+Mexico,1848,reopen legation,23.63,-102.55
+Mexico,1858,closure,23.63,-102.55
+Mexico,1859,reopen legation,23.63,-102.55
+Mexico,1899,elevate to embassy,23.63,-102.55
+Mexico,1914,closure,23.63,-102.55
+Mexico,1927,reopen embassy,23.63,-102.55
+Micronesia,1989,establish embassy,7.43,150.55
+Moldova,1992,establish embassy,47.41,28.37
+Mongolia,1988,establish embassy,46.86,103.85
+Montenegro,2006,establish embassy,42.71,19.37
+Morocco,1905,establish legation,31.79,-7.09
+Morocco,1956,elevate to embassy,31.79,-7.09
+Mozambique,1975,establish embassy,-18.67,35.53
+Myanmar,1947,establish embassy,21.91,95.96
+Namibia,1990,establish embassy,-22.96,18.49
+Nepal,1947,establish embassy,28.39,84.12
+New Zealand,1942,establish legation,-40.9,174.89
+New Zealand,1948,elevate to embassy,-40.9,174.89
+Nicaragua,1851,establish legation,12.87,-85.21
+Nicaragua,1909,closure,12.87,-85.21
+Nicaragua,1911,reopen legation,12.87,-85.21
+Nicaragua,1926,closure,12.87,-85.21
+Nicaragua,1942,elevate to embassy,12.87,-85.21
+Niger,1961,establish embassy,17.61,8.08
+Nigeria,1960,establish embassy,9.08,8.68
+Norway,1906,establish legation,60.47,8.47
+Norway,1940,closure,60.47,8.47
+Norway,1945,elevate to embassy,60.47,8.47
+Oman,1972,establish embassy,21.51,55.92
+Pakistan,1947,establish embassy,30.38,69.35
+Palau,2004,establish embassy,7.51,134.58
+Panama,1903,establish legation,8.54,-80.78
+Panama,1939,elevate to embassy,8.54,-80.78
+Papua New Guinea,1975,establish embassy,-6.31,143.96
+Paraguay,1861,establish legation,-23.44,-58.44
+Paraguay,1942,elevate to embassy,-23.44,-58.44
+Peru,1827,establish legation,-9.19,-75.02
+Peru,1920,elevate to embassy,-9.19,-75.02
+Philippines,1946,establish embassy,12.88,121.77
+Poland,1919,establish legation,51.92,19.15
+Poland,1930,elevate to embassy,51.92,19.15
+Poland,1939,closure,51.92,19.15
+Poland,1945,establish embassy,51.92,19.15
+Portugal,1791,establish legation,39.4,-8.22
+Portugal,1944,elevate to embassy,39.4,-8.22
+Qatar,1973,establish embassy,25.35,51.18
+Republic of the Congo,1960,establish embassy,-0.23,15.83
+Republic of the Congo,1965,closure,-0.23,15.83
+Republic of the Congo,1977,reopen embassy,-0.23,15.83
+Romania,1882,establish legation,45.94,24.97
+Romania,1941,closure,45.94,24.97
+Romania,1947,reopen legation,45.94,24.97
+Romania,1964,elevate to embassy,45.94,24.97
+Russia,1809,establish legation,61.52,105.32
+Russia,1898,elevate to embassy,61.52,105.32
+Russia,1919,closure,61.52,105.32
+Russia,1933,reopen embassy,61.52,105.32
+Rwanda,1962,establish embassy,-1.94,29.87
+Samoa,1988,establish embassy,-13.76,-172.1
+Saudi Arabia,1942,establish legation,23.89,45.08
+Saudi Arabia,1949,elevate to embassy,23.89,45.08
+Senegal,1960,establish embassy,14.5,-14.45
+Serbia,1882,establish legation,44.02,21.01
+Serbia,1882,establish legation,44.02,21.01
+Serbia,1942,elevate to embassy,44.02,21.01
+Serbia,1942,closure,44.02,21.01
+Serbia,1945,elevate to embassy,44.02,21.01
+Serbia,1992,closure,44.02,21.01
+Serbia,1999,closure,44.02,21.01
+Serbia,2001,reopen embassy,44.02,21.01
+Seychelles,1976,establish embassy,-4.68,55.49
+Sierra Leone,1961,establish embassy,8.46,-11.78
+Singapore,1966,establish embassy,1.35,103.82
+Slovakia,1993,establish embassy,48.67,19.7
+Slovenia,1992,establish embassy,46.15,15
+Somalia,1960,establish embassy,5.15,46.2
+Somalia,1991,closure,5.15,46.2
+South Africa,1929,establish legation,-30.56,22.94
+South Africa,1949,elevate to embassy,-30.56,22.94
+South Korea,1949,establish embassy,35.91,127.77
+South Korea,1950,closure,35.91,127.77
+South Korea,1953,reopen embassy,35.91,127.77
+South Sudan,2011,elevate to embassy,4.85,31.6
+Spain,1783,establish legation,40.46,-3.75
+Spain,1898,closure,40.46,-3.75
+Spain,1899,reopen legation,40.46,-3.75
+Spain,1913,elevate to embassy,40.46,-3.75
+Sri Lanka,1949,establish embassy,7.87,80.77
+Sudan,1956,establish embassy,12.86,30.22
+Sudan,1967,closure,12.86,30.22
+Sudan,1972,reopen embassy,12.86,30.22
+Sudan,1997,closure,12.86,30.22
+Sudan,2002,reopen embassy,12.86,30.22
+Suriname,1975,establish embassy,3.92,-56.03
+Swaziland,1968,establish embassy,-26.52,31.47
+Sweden,1818,establish legation,60.13,18.64
+Sweden,1947,elevate to embassy,60.13,18.64
+Switzerland,1853,establish legation,46.82,8.23
+Switzerland,1953,elevate to embassy,46.82,8.23
+Syria,1944,establish legation,34.8,39
+Syria,1958,closure,34.8,39
+Syria,1961,reopen embassy,34.8,39
+Syria,1967,closure,34.8,39
+Syria,1974,reopen embassy,34.8,39
+Tajikistan,1992,establish embassy,38.86,71.28
+Tanzania,1961,establish embassy,-6.37,34.89
+Texas,1837,establish legation,30.27,-97.73
+Texas,1846,closure,30.27,-97.73
+Thailand,1882,establish legation,15.87,100.99
+Thailand,1947,elevate to embassy,15.87,100.99
+The Bahamas,1973,establish embassy,25.03,-77.4
+The Gambia,1965,establish embassy,13.44,-15.31
+The Netherlands,1782,establish legation,52.13,5.29
+The Netherlands,1801,closure,52.13,5.29
+The Netherlands,1945,elevate to embassy,52.13,5.29
+The Solomon Islands,1988,establish embassy,-9.65,160.16
+The Solomon Islands,1993,closure,-9.65,160.16
+The United Arab Emirates,1974,establish embassy,23.42,53.85
+The United Kingdom,1785,establish legation,55.38,-3.44
+The United Kingdom,1812,closure,55.38,-3.44
+The United Kingdom,1815,reopen legation,55.38,-3.44
+The United Kingdom,1893,elevate to embassy,55.38,-3.44
+Timor-Leste,2002,establish embassy,-8.87,125.73
+Togo,1960,establish embassy,8.62,0.82
+Trinidad and Tobago,1962,establish embassy,10.69,-61.22
+Tunisia,1956,establish embassy,33.89,9.54
+Turkey,1831,establish legation,38.96,35.24
+Turkey,1906,elevate to embassy,38.96,35.24
+Turkey,1917,closure,38.96,35.24
+Turkey,1927,reopen embassy,38.96,35.24
+Turkmenistan,1992,establish embassy,38.97,59.56
+Uganda,1962,establish embassy,1.37,32.29
+Uganda,1973,closure,1.37,32.29
+Uganda,1979,reopen embassy,1.37,32.29
+Ukraine,1992,establish embassy,48.38,31.17
+Uruguay,1870,establish legation,-32.52,-55.77
+Uruguay,1941,elevate to embassy,-32.52,-55.77
+Uzbekistan,1992,establish embassy,41.38,64.59
+Vatican City,1984,establish embassy,41.9,12.45
+Venezuela,1835,establish legation,6.42,-66.59
+Venezuela,1939,elevate to embassy,6.42,-66.59
+Vietnam,1950,establish legation,14.06,108.28
+Vietnam,1952,elevate to embassy,14.06,108.28
+Vietnam,1975,closure,14.06,108.28
+Vietnam,1995,reopen embassy,14.06,108.28
+Yemen,1959,establish legation,15.55,48.52
+Yemen,1967,establish embassy,15.55,48.52
+Yemen,1969,closure,15.55,48.52
+Yemen,1972,reopen embassy,15.55,48.52
+Zambia,1964,establish embassy,-13.13,27.85
+Zimbabwe,1980,establish embassy,-19.02,29.15
