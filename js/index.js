@@ -31,13 +31,70 @@ var states = {
     currentYear : yearSlider.value,
     playButtonIsPlaying : false
 }
+var plotlyData = [{
+    type: 'choropleth',
+    locationmode: 'country names',
+    locations: [''],
+    z: [30],
+    text: [''],
+    autocolorscale: true
+}];
+var plotlyLayout = {
+    title: 'Learning American Diplomacy History',
+    geo: {
+        projection: {
+            type: 'robinson'
+        }
+    }
+};
 
-// ---------- slidebar event handler -------------------------- 
+// ---------- initialize plotly map ---------------------- 
+const unpack = (rows, key) => {
+    return rows.map((row) => row[key]);
+}
+var embassyEventByYear = {};
+var embassyEventByCountry = {};
+Plotly.d3.csv('../ref/embassy-data.csv', (err, rows) =>{
+    // group the ebassy events by year
+    embassyEventByYear = rows.reduce((result, row) => {
+        if (row['year'] in result) {
+            result[row['year']].push({event : row['event'], country : row['country']});
+        }else {
+            result[row['year']] = [{event : row['event'], country : row['country']}];
+        }
+        return result;
+    }, {});
+
+    // group the embassy events by country name
+    embassyEventByCountry = rows.reduce((result, row) => {
+        if (row['country'] in result) {
+            result[row['country']].push({event : row['event'], year : row['year']});
+        }else {
+            result[row['country']] = [{event : row['event'], year : row['year']}];
+        }
+        return result;
+    }, {});
+
+    Plotly.plot(worldmap, plotlyData, plotlyLayout, {showLink: false});
+});
+
+
+// -----------------  event handler -------------------------- 
+
 
 // change the current year and label display
 const onSlidebarChangeEvent = () => {
     states.currentYear = yearSlider.value;
     yearLabel.innerText = yearSlider.value;
+
+    if (states.currentYear in embassyEventByYear){
+        plotlyData[0]['locations'] = unpack(embassyEventByYear[states.currentYear], 'country');
+        plotlyData[0]['text'] = unpack(embassyEventByYear[states.currentYear], 'event');
+        console.log('plotlyData ', plotlyData);
+        console.log('embassyEventByYear[states.currentYear]: ', embassyEventByYear[states.currentYear]);
+        Plotly.newPlot(worldmap, plotlyData, plotlyLayout); 
+    }
+
 }
 yearSlider.addEventListener('input', () => {
     onSlidebarChangeEvent();
@@ -74,3 +131,5 @@ const onPlayButtonClick = () => {
 }
 playButton.addEventListener('click', () => onPlayButtonClick());
 setInterval(onPlaying, playRate);
+
+
