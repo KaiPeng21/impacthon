@@ -1,0 +1,52 @@
+[
+  {
+    "img": "https://media.defense.gov/2008/Sep/05/2000681952/780/780/0/080904-F-2827S-101.JPG",
+    "event": "US Constitution ratified",
+    "year": 1788
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/35/Battle_of_New_Orleans.jpg",
+    "event": "War of 1812",
+    "year": 1812
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/73/Belgrano_y_San_Mart%C3%ADn.jpg",
+    "event": "Many Spanish colonies win independence",
+    "year": 1824
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Abraham_Lincoln_O-116_by_Gardner%2C_1865.png/511px-Abraham_Lincoln_O-116_by_Gardner%2C_1865.png",
+    "event": "US Civil War",
+    "year": 1860
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Rhodesian_Platoon_of_the_KRRC_at_Sheerness%2C_1914.png",
+    "event": "World War I",
+    "year": 1914
+  },
+  {
+    "img": "https://media.defense.gov/1945/Feb/23/199431/-1/-1/0/450223-M-0000R-001.jpg",
+    "event": "World War II",
+    "year": 1939
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Korean_War%2C_train_attack.jpg",
+    "event": "Korean War",
+    "year": 1950
+  },
+  {
+    "img": "https://c1.staticflickr.com/5/4225/34161949404_a86acf6e4f_b.jpg",
+    "event": "Vietnam War escalation",
+    "year": 1964
+  },
+  {
+    "img": "https://c1.staticflickr.com/9/8045/8116107560_d621f1b4c8_b.jpg",
+    "event": "Cold War ends",
+    "year": 1991
+  },
+  {
+    "img": "https://c1.staticflickr.com/9/8481/8208283461_d2d1b4f5f7_b.jpg",
+    "event": "Afghanistan War",
+    "year": 2001
+  }
+]
