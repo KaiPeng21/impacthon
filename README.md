@@ -5,11 +5,11 @@
      /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
  ----------------------------------------------------------------- 
 
-##DataEmbassador
-DataEmbassador is an interactive timeline of diplomacy data visualization app that helps visitors to understand American diplomacy and history events through time. The project is written in vanilla javascript
+## DataEmbassador
+DataAmbassadors is an interactive timeline of diplomacy data visualization app that helps visitors to understand American diplomacy and history events through time. The project is written in vanilla javascript
 with plotly.js. User may scroll the interactive glob around, zoom in and out of the map, and click the embassy to view the info label. User may also press a play button to animate the embassy establishment and closure chronologically. The app also highlights major history events in the animation. We also used Amazon Polly to create audio for the animation narratives.
 
-##Team Members
+## Team Members
 Aaron Corso
 Jeff Hale
 Chia-Hua "Kai" Peng
@@ -17,14 +17,14 @@ Jessie Martin
 
 Individuals who doesn't know each others but collaborated together in a hackathon because of a shared interest.
 
-##Highlights
+## Highlights
 - Won the 2nd place out of 15 teams in a data visualization hackathon hosted by US Department and Amazon AWS.
 
-##My Role in the Team
+## My Role in the Team
 - As a frontend developer, designed a time scroll bar that interacts with the interactive glob animation using Plotly.js and Vanilla Javascript.
 - Increased the app user engagement by creating audio narratives using Amazon AWS.
 
-##First Day Prototype
+## First Day Prototype
 The first prototype I built individually which demonstrated the idea of visualization in an animated interactive glob.
 http://impacthon.s3-website-us-east-1.amazonaws.com
 
